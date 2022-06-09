@@ -1,6 +1,7 @@
 body{
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
+    background-color: 	#274156;
   }
   
   .container{
@@ -16,6 +17,7 @@ body{
     flex-direction: column;
     justify-content: space-around;
     margin-left: 10em;
+    color:#D0CCD0;
   }
   
   .leftImage{
@@ -45,12 +47,12 @@ body{
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
     font-size: 25px;
-    color: white;
-    background-color: #222121;
+    color: rgb(255, 255, 255);
+    background-color: #1C6E8C;
     padding: .4em;
     padding-left: 1.5em;
     padding-right: 1.5em;
-    border-color: #707070;
+    border-color: #D0CCD0;
     border-radius: 5px;
     margin-top: 3em;
   }
